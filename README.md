@@ -30,7 +30,11 @@ Aşağıdaki yolu izleyerek projemi indirebilirsiniz
 Herhangi bir geri bildiriminiz varsa, lütfen yilmaz.ramazan@gmail.com adresinden bize ulaşın.
 
   
+
 ## Ekran Görüntüleri
+![1](https://user-images.githubusercontent.com/117778316/223215839-21d24226-1993-406f-9e0d-e0a27e1ecbac.png)
+
+![2](https://user-images.githubusercontent.com/117778316/223215940-4cef1b5e-8bac-49ab-bdfd-55ba9fd011e6.png)
 
 ## Lisans
 
