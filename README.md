@@ -27,7 +27,7 @@ Aşağıdaki yolu izleyerek projemi indirebilirsiniz
   
 ## Geri Bildirim
 
-Herhangi bir geri bildiriminiz varsa, lütfen yilmaz.ramazan@gmail.com adresinden bize ulaşın.
+Herhangi bir geri bildiriminiz varsa, lütfen yilmazramazan300@gmail.com adresinden bize ulaşın.
 
   
 
