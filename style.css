@@ -408,8 +408,11 @@ header a:hover{
     color: #fff;
     font-size: 1rem;
     cursor: pointer;
+    transition: all .4s ease;
 }
-
+.iletisim button:hover{
+    background-color: #3269d9;
+}
 footer{
     height: 60vh;
     width: 100%;
@@ -461,16 +464,3 @@ footer div .link:hover{
 footer div i{
     color: #3560c9;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
